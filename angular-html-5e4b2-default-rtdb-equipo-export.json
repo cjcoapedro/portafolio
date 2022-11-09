@@ -1,0 +1,23 @@
+[
+  {
+    "cargo": "Graphic Designer",
+    "correo": "@robertwilliams",
+    "frase": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+    "nombre": "Robert T. Williams",
+    "url": "https://firebasestorage.googleapis.com/v0/b/angular-html-5e4b2.appspot.com/o/team-1.jpg?alt=media&token=ef856b02-1f01-4016-afc0-11eebe9881f7"
+  },
+  {
+    "cargo": "Founder / CEO",
+    "correo": "@angelinawidow",
+    "frase": "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+    "nombre": "Angelina B. Widow",
+    "url": "https://firebasestorage.googleapis.com/v0/b/angular-html-5e4b2.appspot.com/o/team-2.jpg?alt=media&token=04c7fd69-8bb2-4472-93a7-4500d43cc868"
+  },
+  {
+    "cargo": "Art Director",
+    "correo": "@patrickanderson",
+    "frase": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "nombre": "Patrick Anderson",
+    "url": "https://firebasestorage.googleapis.com/v0/b/angular-html-5e4b2.appspot.com/o/team-3.jpg?alt=media&token=8a0b3666-550f-462f-a92f-d822c7275894"
+  }
+]
